@@ -80,7 +80,7 @@ The developed studies contain queries both created by the professor and by me.
 
 - [`INSERT INTO`](insert-into-queries.sql)
 
-- [`UPDATE`]
+- [`UPDATE`](update-queries.sql)
 
 - [`DELETE`](delete-queries.sql)
 
