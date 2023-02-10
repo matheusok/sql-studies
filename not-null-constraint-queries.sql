@@ -1,0 +1,22 @@
+CREATE TABLE Driver (
+ID INT NOT NULL,
+Name VARCHAR(255) NOT NULL,
+Age INT CHECK (Age >= 18)
+);
+
+SELECT *
+FROM Driver;
+
+INSERT INTO Driver (ID, Name, Age)
+VALUES (1, 'Kristen', 18);
+
+CREATE TABLE Food (
+ID INT NOT NULL,
+Name VARCHAR(300) NOT NULL
+);
+
+SELECT *
+FROM Food;
+
+INSERT INTO Food (ID, Name)
+VALUES (1, 'Pizza');
