@@ -50,7 +50,7 @@ The developed studies contain queries both created by the professor and by me.
 
 - [`COUNT`](count-queries.sql)
 
-- [`MIN](min-max-sum-avg-queries.sql)
+- [`MIN`](min-max-sum-avg-queries.sql)
 
 - [`MAX`](min-max-sum-avg-queries.sql)
 
